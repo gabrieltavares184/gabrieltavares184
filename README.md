@@ -2,7 +2,7 @@
 ##
 😸 Um estudante do ensino médio que faz um curso técnico integrado de informática. 
 <br/><br/>
-🐱‍👤 Esforçado e todo dia buscando ser uma boa pessoa. 
+🐱‍👤 Esforçado e todo dia buscando ser uma pessoa melhor. 
 <div align="left">
   <a href="https://github.com/gabrieltavares184">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieltavares184&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
